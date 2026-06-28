@@ -173,8 +173,6 @@ WHERE Incomplete_Rides = 'Yes';
 - Top 5 customers contribute significantly to total booking value
 - Cancellation reasons vary between customers and drivers
 
----
-
 ## Author
 Chandan Jena
 GitHub: [7735Chandanjena](https://github.com/7735Chandanjena)
