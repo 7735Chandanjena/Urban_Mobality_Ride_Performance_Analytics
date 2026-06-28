@@ -176,7 +176,7 @@ WHERE Incomplete_Rides = 'Yes';
 ---
 
 ## Author
-**Chandan Jena**
+Chandan Jena
 GitHub: [7735Chandanjena](https://github.com/7735Chandanjena)
 =======
 
