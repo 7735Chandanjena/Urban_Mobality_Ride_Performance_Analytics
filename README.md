@@ -1,19 +1,35 @@
-<<<<<<< HEAD
-# 🚗 OLA Data Analyst Project
 
-## 📌 Project Overview
+# OLA Data Analyst Project
+
+## Project Overview
 This project analyzes OLA ride data using **SQL** and **Power BI** to extract meaningful business insights about ride volumes, revenue, cancellations, and customer/driver ratings.
 
 ---
+## Dashboard Screenshots
 
-## 🛠️ Tools Used
+### Overview Dashboard
+![Overview](01_overview_dashboard.png)
+
+### Vehicle Type Analysis
+![Vehicle Type](02_Vehicletype_Analysis_dashboard.png)
+
+### Revenue Analysis
+![Revenue Analysis](03_Revenue_analysis.png)
+
+### Revenue Analysis Dashboard
+![Revenue Dashboard](04_Revenue_analysis_Dashboard.png)
+
+### Ratings by Customers & Drivers
+![Ratings](05_Ratings_givenby_custome&drivers.png)
+
+## Tools Used
 - **MySQL** — Data querying and analysis
 - **Power BI** — Interactive dashboards and visualizations
 - **Excel/CSV** — Raw data source
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 Urban_Mobality_Ride_Performance_Analytics/
 │
@@ -28,7 +44,7 @@ Urban_Mobality_Ride_Performance_Analytics/
 
 ---
 
-## 🗄️ Dataset Columns
+## Dataset Columns
 | Column | Description |
 |--------|-------------|
 | Date, Time | Ride date and time |
@@ -46,7 +62,7 @@ Urban_Mobality_Ride_Performance_Analytics/
 
 ---
 
-## 🗄️ SQL Questions & Answers
+## SQL Questions & Answers
 
 ### 1. Retrieve all successful bookings:
 ```sql
@@ -127,7 +143,7 @@ WHERE Incomplete_Rides = 'Yes';
 
 ---
 
-## 📊 Power BI Dashboards
+## Power BI Dashboards
 
 ### 1. Overall
 - **Ride Volume Over Time** — Time-series chart showing rides per day/week
@@ -151,7 +167,7 @@ WHERE Incomplete_Rides = 'Yes';
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - UPI is one of the most used payment methods
 - Prime Sedan has notable driver rating patterns
 - Top 5 customers contribute significantly to total booking value
@@ -159,7 +175,7 @@ WHERE Incomplete_Rides = 'Yes';
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Chandan Jena**
 GitHub: [7735Chandanjena](https://github.com/7735Chandanjena)
 =======
