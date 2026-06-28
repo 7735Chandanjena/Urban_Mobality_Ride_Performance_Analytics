@@ -2,11 +2,11 @@
 # OLA Data Analyst Project
 
 ## Project Overview
-This project analyzes OLA ride data using **SQL** and **Power BI** to extract meaningful business insights about ride volumes, revenue, cancellations, and customer/driver ratings.
+-Developed a dashboard to analyze ride bookings, focusing on success and cancellation rates. Identified trends across time and locations, including peak cancellation periods and driver vs customer cancellations. Visualized key KPIs to support data-driven decisions,  optimize operations, and enhance customer experience.
+-This project analyzes OLA ride data using **SQL** and **Power BI** to extract meaningful business insights about ride volumes, revenue, cancellations, and customer/driver ratings.
 
 ---
 ## Dashboard Screenshots
-
 ### Overview Dashboard
 ![Overview](01_overview_dashboard.png)
 
@@ -179,6 +179,4 @@ WHERE Incomplete_Rides = 'Yes';
 **Chandan Jena**
 GitHub: [7735Chandanjena](https://github.com/7735Chandanjena)
 =======
-# Urban_Mobality_Ride_Performance_Analytics
-Developed a dashboard to analyze ride bookings, focusing on success and cancellation rates. Identified trends across time and locations, including peak cancellation periods and driver vs customer cancellations. Visualized key KPIs to support data-driven decisions,  optimize operations, and enhance customer experience.
->>>>>>> 8ea4a865269e7ece8d7027cc38270b0b072ddbd3
+
