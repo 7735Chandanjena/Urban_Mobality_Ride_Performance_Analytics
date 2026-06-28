@@ -33,13 +33,13 @@ This project analyzes OLA ride data using **SQL** and **Power BI** to extract me
 ```
 Urban_Mobality_Ride_Performance_Analytics/
 │
-├── 📸 01_overview_dashboard.png
-├── 📸 02_Vehicletype_Analysis_dashboard.png
-├── 📸 03_Revenue_analysis.png
-├── 📸 04_Revenue_analysis_Dashboard.png
-├── 📸 05_Ratings_givenby_custome&drivers.png
-├── 📊 ola project.pbix
-└── 📖 README.md
+├── 01_overview_dashboard.png
+├──  02_Vehicletype_Analysis_dashboard.png
+├──  03_Revenue_analysis.png
+├──  04_Revenue_analysis_Dashboard.png
+├──  05_Ratings_givenby_custome&drivers.png
+├──  ola project.pbix
+└──  README.md
 ```
 
 ---
